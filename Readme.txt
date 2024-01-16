@@ -3,6 +3,8 @@ Submitted by -  Kushal Agrawal (2020CSB1096)
 		Inayat Kaur (2020CSB1088)
 		Pooja Goyal (2020CSB1108)
 
+In this project, we propose a mechanism to detect intrusion at the border by using multiple UAVs. They are trained using Reinforcement learning based method to independently tackle path finding tasks.
+
 The code consists of the following classes:
 
 Simulator - It controls the whole simulation process by calling the appropriate methods.
